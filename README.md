@@ -20,14 +20,20 @@
 
 Для каждого варианта брали разные вершины-корни.
 
+Корень статья "Lermontov"
 <img src="https://github.com/Shabrashin/Lab2/blob/master/1.Lermontov.png" width="800" height="300"/>
 
+Корень статья "Google Talk"
 <img src="https://github.com/Shabrashin/Lab2/blob/master/1.GoogleTalk.png" width="800" height="300"/>
 
+Корень статья "Washington"
 <img src="https://github.com/Shabrashin/Lab2/blob/master/1.Washington.png" width="800" height="300"/>
 
+Корень статья "Lermontov" в радиальных координатах
 <img src="https://github.com/Shabrashin/Lab2/blob/master/2.Lermontov.png" width="600" height="600"/>
 
+Корень статья "Google Talk" в радиальных координатах
 <img src="https://github.com/Shabrashin/Lab2/blob/master/3.GoogleTalk.png" width="600" height="600"/>
 
+Корень статья "Washington" в радиальных координатах
 <img src="https://github.com/Shabrashin/Lab2/blob/master/2.Washington.png" width="600" height="600"/>
