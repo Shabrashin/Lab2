@@ -19,3 +19,5 @@
 2. В радиальных
 
 Для каждого варианта брали разные вершины-корни.
+
+![https://github.com/Shabrashin/Lab2/blob/master/1.GoogleTalk.png]
