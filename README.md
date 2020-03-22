@@ -21,3 +21,4 @@
 Для каждого варианта брали разные вершины-корни.
 
 ![https://github.com/Shabrashin/Lab2/blob/master/1.GoogleTalk.png]
+<img src="https://github.com/Shabrashin/Lab2/blob/master/1.GoogleTalk.png" width="200" height="50"/>
