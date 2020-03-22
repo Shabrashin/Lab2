@@ -20,4 +20,8 @@
 
 Для каждого варианта брали разные вершины-корни.
 
+<img src="https://github.com/Shabrashin/Lab2/blob/master/1.Lermontov.png" width="800" height="300"/>
+
 <img src="https://github.com/Shabrashin/Lab2/blob/master/1.GoogleTalk.png" width="800" height="300"/>
+
+<img src="https://github.com/Shabrashin/Lab2/blob/master/1.Washington.png" width="800" height="300"/>
